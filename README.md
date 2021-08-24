@@ -1,7 +1,7 @@
 <img width="638" alt="CH-profile-banner" src="https://user-images.githubusercontent.com/80665978/130688040-5f995be6-1760-49b0-b4a4-8da521ecd756.png">
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
-##Pinned Repositories
+### Pinned Repositories
 
 <a href="https://github.com/Claholla/Food-Finders">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=claholla&repo=Food-Finders&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
