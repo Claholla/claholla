@@ -1,6 +1,12 @@
 <img width="638" alt="CH-profile-banner" src="https://user-images.githubusercontent.com/80665978/130688040-5f995be6-1760-49b0-b4a4-8da521ecd756.png">
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
+Hello,
+
+I'm Clay, and I'm a Full-Stack Web Developer, recent bootcamp graduate, and trained designer. I enjoy designing beautiful, functional applications on the front end, as well as digging into functionality and server side code on the back end.
+
+My portfolio and work samples can be found in my pinned repositories below.
+
 ### Pinned Repositories
 
 <a href="https://github.com/Claholla/Food-Finders">
