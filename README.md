@@ -33,4 +33,5 @@ My portfolio and work samples can be found in my pinned repositories below.
 <br>
 ## Stats
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claholla)](https://github.com/Claholla/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claholla)](https://github.com/anuraghazra/github-readme-stats)
+
