@@ -1,4 +1,4 @@
-<img width="638" alt="CH-profile-banner" src="https://user-images.githubusercontent.com/80665978/130688040-5f995be6-1760-49b0-b4a4-8da521ecd756.png" style="max-width:100%">
+<img width="638" alt="CH-profile-banner" src="https://user-images.githubusercontent.com/80665978/130688040-5f995be6-1760-49b0-b4a4-8da521ecd756.png" style="width:100%">
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
 
