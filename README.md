@@ -32,3 +32,6 @@ My portfolio and work samples can be found in my pinned repositories below.
 
 <br>
 <br>
+
+## Skills
+<img src="https://camo.githubusercontent.com/320ef4ed880038cc9ace4ebb6035b4c6d44b7980400901485fc9f0bbf8f83571/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d416e67756c61722d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d616e67756c6172266c6f676f436f6c6f723d776869746526636f6c6f723d344142313937" alt="" data-canonical-src="https://img.shields.io/badge/Code-Angular-informational?style=flat&amp;logo=angular&amp;logoColor=white&amp;color=4AB197" style="max-width:100%;">
