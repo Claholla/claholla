@@ -1,4 +1,5 @@
-<img width="638" alt="CH-profile-banner" src="https://user-images.githubusercontent.com/80665978/130688040-5f995be6-1760-49b0-b4a4-8da521ecd756.png">
+ <img width="1440" alt="Screen Shot 2021-08-26 at 4 48 18 PM" src="https://user-images.githubusercontent.com/80665978/131040696-3a22643d-4d78-489e-ba69-5619e848aaf2.png">
+
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 Hello,
