@@ -1,6 +1,8 @@
  <img width="1440" alt="Screen Shot 2021-08-26 at 4 48 18 PM" src="https://user-images.githubusercontent.com/80665978/131040696-3a22643d-4d78-489e-ba69-5619e848aaf2.png">
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<a href="https://www.linkedin.com/in/clayholland">
+<img src="https://camo.githubusercontent.com/5b6f22d22d8701b7cf49ef2526af05b5a17695683a8ced9efda2439591cd0cdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d50726f66696c652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d776869746526636f6c6f723d304437364138" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;color=0D76A8" style="max-width:100%;">
+</a>
 
 Hello,
 
