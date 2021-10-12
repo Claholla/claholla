@@ -6,7 +6,7 @@
 
 Hello,
 
-I'm Clay, and I'm a Full-Stack Web Developer, recent bootcamp graduate, and trained designer. I enjoy designing beautiful, functional applications on the front end, as well as digging into server side code on the back end.
+I'm Clay, and I'm a Full-Stack Web Developer, recent bootcamp graduate, and trained designer. I enjoy designing beautiful, functional full-stack applications of all kinds.
 
 My portfolio and work samples can be found in my pinned repositories below.
 
